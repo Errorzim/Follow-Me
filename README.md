@@ -1,9 +1,9 @@
 # Follow-Me
-## <i><b> Follow Me</b></i> <br>https://github.com/Errorzim/Errorzim.git<br> [![Facebook](facebook)](https://www.facebook.com/sunnyLeon.ar.vatar.me)
+#https://github.com/Errorzim.git(facebook https://www.facebook.com/sunnyLeon.ar.vatar.me)
 
-<h1 align="center">errorzim</h1>
+<h1 align="center">https://github.com/Errorzim</h1>
 
-<p align="center">
+<p align="center">https://github.com/Errorzim
 
       A new international facebook account cracker tool for termux users
 
@@ -29,11 +29,11 @@ $ pip2 install bs4
 
 $ pkg install git
 
-$ git clone https://github.com/Errorzim/Errorzim.git
+$ git clone https://github.com/Errorzim.git
 
 $ ls
 
-$ cd
+$ Python2 zim.git
 
 ```
 
